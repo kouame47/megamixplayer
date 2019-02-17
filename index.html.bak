@@ -1,0 +1,116 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>mega mix player</title>
+<link href="style.css" rel="stylesheet" type="text/css" />
+
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine8/style.css" />
+	<script type="text/javascript" src="engine8/jquery.js"></script>
+	<!-- End WOWSlider.com HEAD section --></head>
+<body>
+<header id="haut">
+<img src="logo/logo mgm.png" width="200" height="100" />
+JE BSUI DGHDGSHHHJD DHHHS HDHHS VSFGFFS EZZZZEE EEEEEEEEEEE EEEEEEEEEEE EEEEEEEEEEEE 
+ <a href="#"><img src="logo/fb.png" title="facebook" width="47" height="47" /></a>
+ BCN
+ <a href="#"><img src="logo/Whatsapp.png" title="whatssap" width="47" height="47" /></a>
+            <div class="recherche-p"> 
+<form action="/search" id="searchthis" method="get">
+<input id="search" name="q" type="text" placeholder="Rechercher"/>
+<input id="search-btn" type="submit" value="Rechercher" />
+</form>
+</div>
+
+<!--debut menu -->
+<nav id="menu">
+<ul>  
+           <li><a href="#" title="ACCEUIL">ACCEUIL </a>|</li>
+           <li><a href="#" title="ACTUALITE">ACTUALITE </a>|</li>
+           <li><a href="#" title="VIDEO">VIDEOS </a>|</li>
+           <li><a href="#" title="MISUQUE">MUSIQUE </a>|</li>
+           <li>
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<a href="#" title="EVERNEMENT">EVERNEMENT </a>|</li>
+           <li><a href="#" title="NOS SERVICES">NOS SERVICES </a>|</li>
+
+</ul>
+</nav>
+<!--fin menu -->
+<!--debut conteneur -->
+<div id="contenu">
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	
+    <!--DEBUT TOP 5 -->
+<!--fin conteneur -->
+<div class="fb-page" 
+  data-href="https://www.facebook.com/facebook"
+  data-width="380" 
+  data-hide-cover="false"
+  data-show-facepile="false"></div>
+
+	
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container8">
+	<div class="ws_images"><ul>
+		<li><img src="data8/images/1.jpg" alt="" title="" id="wows8_0"/></li>
+		<li><img src="data8/images/2.jpg" alt="" title="" id="wows8_1"/></li>
+		<li><img src="data8/images/3.jpg" alt="" title="" id="wows8_2"/></li>
+		<li><img src="data8/images/4.jpg" alt="" title="" id="wows8_3"/></li>
+		<li><img src="data8/images/5.jpg" alt="" title="" id="wows8_4"/></li>
+		<li><img src="data8/images/6.jpg" alt="" title="" id="wows8_5"/></li>
+		<li><a href="http://wowslider.net"><img src="data8/images/7.jpg" alt="jquery image slider" title="" id="wows8_6"/></a></li>
+		<li><img src="data8/images/8.jpg" alt="" title="" id="wows8_7"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title=""><span><img src="data8/tooltips/1.jpg" alt=""/>1</span></a>
+		<a href="#" title=""><span><img src="data8/tooltips/2.jpg" alt=""/>2</span></a>
+		<a href="#" title=""><span><img src="data8/tooltips/3.jpg" alt=""/>3</span></a>
+		<a href="#" title=""><span><img src="data8/tooltips/4.jpg" alt=""/>4</span></a>
+		<a href="#" title=""><span><img src="data8/tooltips/5.jpg" alt=""/>5</span></a>
+		<a href="#" title=""><span><img src="data8/tooltips/6.jpg" alt=""/>6</span></a>
+		<a href="#" title=""><span><img src="data8/tooltips/7.jpg" alt=""/>7</span></a>
+		<a href="#" title=""><span><img src="data8/tooltips/8.jpg" alt=""/>8</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">css image gallery</a> by WOWSlider.com v8.8</div>
+	<div class="ws_shadow"></div>
+	</div>	
+	<script type="text/javascript" src="engine8/wowslider.js"></script>
+	<script type="text/javascript" src="engine8/script.js"></script>
+	<!-- End WOWSlider.com BODY section --><!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	</div>
+<!--debut pied de page -->
+<footer id="php">
+mega mix player. telechargement 100% gratuit de musique.
+<br/>
+&copy; 2018 mega mix player
+</footer>
+</aside>
+<!--fin pied de page -->
+
+</body>
+</html>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	                                                                                    
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	         
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	
